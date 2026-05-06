@@ -6,6 +6,14 @@
         <description>Island update feed</description>
         <language>en</language>
         <item>
+            <title>Version 0.0.4</title>
+            <pubDate>Wed, 06 May 2026 20:05:13 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yoshi-ai-dev/island-releases/releases/download/v0.0.4/Island-0.0.4.zip" type="application/octet-stream" sparkle:edSignature="Tqs4nk1bDwc8Ph3/lgvYpf3nisusyMPIDtI0RefqzdYZlJSrw94wOa78CihxOlSyui9YURXqLpcPF6HCRH/kBA==" length="1894400" />
+        </item>
+        <item>
             <title>Version 0.0.3</title>
             <pubDate>Wed, 06 May 2026 19:46:45 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
